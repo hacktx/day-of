@@ -14,6 +14,14 @@
   color: #CC0019;
 }
 
+.faq-list li {
+  list-style-type: disc;
+}
+
+.no-margin-bottom {
+  margin-bottom: 0;
+}
+
 .icon-block {
   padding: 0 15px;
 }
