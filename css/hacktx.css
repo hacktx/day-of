@@ -6,6 +6,10 @@
   color: #124E78;
 }
 
+.hacktx-blue-dark {
+  background-color: #0D3959;
+}
+
 .hacktx-red {
   background-color: #CC0019;
 }
@@ -20,6 +24,25 @@
 
 .no-margin-bottom {
   margin-bottom: 0;
+}
+
+.links-container {
+  display: inline-block;
+}
+
+.link-container {
+  color: white;
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.link-container i {
+  font-size: 2em;
+}
+
+.link-container p {
+  margin-top: 0px;
 }
 
 .icon-block {
