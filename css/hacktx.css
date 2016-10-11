@@ -1,0 +1,23 @@
+.hacktx-blue {
+	background-color: #124E78;
+}
+
+.hacktx-blue-text {
+  color: #124E78;
+}
+
+.hacktx-red {
+  background-color: #CC0019;
+}
+
+.hacktx-red-text {
+  color: #CC0019;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block .material-icons {
+	font-size: inherit;
+}
