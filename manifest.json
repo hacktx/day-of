@@ -28,7 +28,7 @@
 			"type": "image\/png"
 		}
 	],
-	"start_url": "/index.html",
+	"start_url": "https://go.hacktx.com",
 	"theme_color": "#e8eecc",
 	"display": "standalone",
 	"prefer_related_applications": true,
