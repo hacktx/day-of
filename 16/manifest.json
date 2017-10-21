@@ -1,0 +1,41 @@
+{
+	"name": "HackTX",
+	"short_name": "HackTX",
+	"icons": [
+		{
+			"src": "img\/android-chrome-96x96.png",
+			"sizes": "96x96",
+			"type": "image\/png"
+		},
+		{
+			"src": "img\/android-chrome-142x142.png",
+			"sizes": "142x142",
+			"type": "image\/png"
+		},
+		{
+			"src": "img\/android-chrome-144x144.png",
+			"sizes": "144x144",
+			"type": "image\/png"
+		},
+		{
+			"src": "img\/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image\/png"
+		},
+		{
+			"src": "img\/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image\/png"
+		}
+	],
+	"start_url": "/",
+	"theme_color": "#e8eecc",
+	"display": "standalone",
+	"prefer_related_applications": true,
+	"related_applications": [
+	  {
+	    "platform": "play",
+	    "id": "com.hacktx.android"
+	  }
+	]
+}

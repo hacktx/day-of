@@ -1,24 +1,3 @@
-h1, h2, h3, h4, h5, p, ul, li , b {
-  font-family: "Varela Round", sans-serif;
-}
-
-.ft_logo {
-  width: 6em;
-  height: auto;
-}
-
-body {
-  background-color: #22215b;
-}
-
-.hacktx-yellow {
-  background-color: #FFE62C;
-}
-
-.hacktx-orange {
-  background-color: #E67300;
-}
-
 .hacktx-blue {
 	background-color: #124E78;
 }
@@ -31,16 +10,8 @@ body {
   background-color: #0D3959;
 }
 
-.hacktx-purple {
-  background-color: #22215b;
-}
-
 .hacktx-red {
   background-color: #CC0019;
-}
-
-.hacktx-pink {
-  background-color: #E60073;
 }
 
 .hacktx-red-text {

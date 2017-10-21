@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hacktx.android",
+    "sha256_cert_fingerprints":
+    ["78:04:D7:01:D3:80:9D:23:22:DB:10:35:80:9C:07:00:A4:08:AE:2E:0A:07:CE:3B:19:87:DD:AF:28:44:58:E7"]
+  }
+}]
