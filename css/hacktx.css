@@ -51,6 +51,14 @@ body {
   color: #CC0019;
 }
 
+.hacktx-pink-text {
+  color: #E60073;
+}
+
+.hacktx-orange-text {
+  color: #E67300;
+}
+
 .faq-list li {
   list-style-type: disc;
 }
