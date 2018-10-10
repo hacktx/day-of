@@ -1,5 +1,3 @@
-/* DO NOT EDIT DIRECTLY. Compiled from SCSS */
-
 body {
 font-family: futura-pt, sans-serif;
 font-size: 20px;
@@ -75,8 +73,13 @@ width: 1em;
 margin-bottom: 0.4em;
 }
 
+#map a {
+display: block;
+margin: 0 -20px;
+}
 #map img {
 width: 100%;
+height: auto;
 display: block;
 margin-top: 1em;
 }
@@ -186,9 +189,11 @@ padding-left: 0.4em;
 }
 section.links .sub {
 text-align: right;
-margin-top: -20px;
+margin: -20px -20px 0 -20px;
 padding: 0 20px;
 position: relative;
+overflow-x: auto;
+white-space: nowrap;
 }
 section.links .sub a {
 display: inline-block;
