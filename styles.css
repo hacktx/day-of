@@ -164,11 +164,11 @@ transform: translateY(-50%);
 transform: translateY(-2.5px) translateY(-50%);
 }
 
-#apis a {
-display: block;
-background: #4b78bb;
-padding: 20px;
-margin: 20px -20px 0 -20px;
+#apis a strong {
+border-bottom: 1px solid;
+}
+#apis a:hover strong, #apis a:active strong {
+border-width: 2px;
 }
 
 .links a {
