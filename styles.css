@@ -83,6 +83,11 @@ height: auto;
 display: block;
 margin-top: 1em;
 }
+#map .inside img {
+border: 1em solid white;
+background: white;
+margin: 1em -20px 0 -20px;
+}
 
 #event {
 display: flex;
